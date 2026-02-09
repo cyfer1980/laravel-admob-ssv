@@ -3,7 +3,7 @@ The library help you to verify Admob callback in server.
 
 ## Install
 ```
-composer require casperlaitw/laravel-admob-ssv
+composer require cyfer1980/laravel-admob-ssv
 ```
 
 
